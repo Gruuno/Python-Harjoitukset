@@ -7,7 +7,7 @@ Jani Tuovinen
 
 Tein tehtävä moduulit 1 ja 2.
 
-Oli hiukan vaikeuksia githubin kannsa, mutta kun sai sen toimimaan visual studiossa niin asiat sujui aika sulavasti.
+Oli hiukan vaikeuksia githubin kanssa, mutta kun sai sen toimimaan niin asiat sujui aika sulavasti.
 Ohjeet ja tehtävät olivat oikein selviä.
 
 
