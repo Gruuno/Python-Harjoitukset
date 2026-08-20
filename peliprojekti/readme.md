@@ -1,3 +1,3 @@
-- Project α -
+Project α -
 
-Jani Tuovinen
+- Jani Tuovinen
