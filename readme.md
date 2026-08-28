@@ -20,7 +20,7 @@ Ohjeet olivat selkeät ja hyvät.
 
 ## Moduuli 4
 
-Tein tethtävä moduulin 4, joka sisälti 4 tehtävää.
+Tein tehtävä moduulin 4, joka sisälti 4 tehtävää.
 
 Ongelmia ei hirveesti ilmennyt, muistan että alussa oli hiukan probleemia kun piti muistella miten while toimikaan.
 Ohjeet olivat kyllä selkeät ja hyvät.
