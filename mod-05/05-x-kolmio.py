@@ -8,4 +8,4 @@ while rivi <= korkeus:
 
     print(" " * välilyönnit + "*" * tähdet)
 
-    rivi += 1
+    rivi += 1 
