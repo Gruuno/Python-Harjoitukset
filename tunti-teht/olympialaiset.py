@@ -8,4 +8,4 @@ while vuosi > 1895:
     else:
         print(vuosi, "- ei ole olympialaisten vuosi.")
         
-    vuosi = int(input("\nAnna olympialaisten vuosi (1896 tai uudempi)\nTai syötä numero alle tuon 1896 lopettaaksesi ohjelma: "))
+    vuosi = int(input("\nAnna olympialaisten vuosi (1896 tai uudempi)\nTai syötä numero alle tuon 1896 lopettaaksesi ohjelma: ")) 

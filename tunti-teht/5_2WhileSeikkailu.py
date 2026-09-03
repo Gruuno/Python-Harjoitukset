@@ -16,4 +16,4 @@ while Vastaus1 != "lopeta":
     else:
         Vastaus1 = input("Syötit varmaankin väärän valinnan. Valintoina on Miekka, Kilpi tai Sauva!\n")
 
-print("Ohjelma lopetetaan.")
+print("Ohjelma lopetetaan.") 
