@@ -39,3 +39,9 @@ Tehtävän olisi voinut mielestäni selkeyttää tiivistämällä ja antamalla v
 Tein tehtävämoduulin 6, joka sisälsi 4 tehtävää.
 Tehtävien teko meni ihan hyvin, tarvitsi vain hiukan muistella miten listat ja for toimikaan taas.
 Tehtävien annot olivat myöskin selkeät.
+
+## Moduuli 7
+
+Tein tehtävämoduulin 7, joka sisälsi 6 tehtävää.
+Tehtävien teko meni suht koht hyvin. Oli hiukan monimutkasempaa kuin mitä tahan asti on ollut.
+Tehtävän annot ja ohjeet olivat selkeät minusta.
