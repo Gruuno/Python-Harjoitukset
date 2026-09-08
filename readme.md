@@ -43,5 +43,11 @@ Tehtävien annot olivat myöskin selkeät.
 ## Moduuli 7
 
 Tein tehtävämoduulin 7, joka sisälsi 6 tehtävää.
-Tehtävien teko meni suht koht hyvin. Oli hiukan monimutkasempaa kuin mitä tahan asti on ollut.
+Tehtävien teko meni suht koht hyvin. Oli hiukan monimutkasempaa kuin mitä tähänn asti on ollut.
 Tehtävän annot ja ohjeet olivat selkeät minusta.
+
+## Moduuli 8 
+
+Tein tehtävämoduulin 8, joka sisälsi vain 3 tehtävää.
+Tehtävät olivat minusta oikein selviä ja helppoja.
+Listojen tekeminen sujui myöskin oikein hyvin minusta.
