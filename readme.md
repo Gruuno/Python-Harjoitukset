@@ -51,3 +51,9 @@ Tehtävän annot ja ohjeet olivat selkeät minusta.
 Tein tehtävämoduulin 8, joka sisälsi vain 3 tehtävää.
 Tehtävät olivat minusta oikein selviä ja helppoja.
 Listojen tekeminen sujui myöskin oikein hyvin minusta.
+
+## Moduuli 9
+
+Tein tehtävämoduulin 9, joka sisälsi 4 tehtävää.
+Tehtävien teko sujui hyvin vaikka tuli aika monta hankaaluutta.
+Tehtävän annot ja selitykset olivat minusta oikein hyviä.
