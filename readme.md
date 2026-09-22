@@ -57,3 +57,12 @@ Listojen tekeminen sujui myöskin oikein hyvin minusta.
 Tein tehtävämoduulin 9, joka sisälsi 4 tehtävää.
 Tehtävien teko sujui hyvin vaikka tuli aika monta hankaaluutta.
 Tehtävän annot ja selitykset olivat minusta oikein hyviä.
+
+## Moduuli 10 
+Tein tehtävämoduulin 10, joka sisälsi 4 tehtävää.
+Tehtävät olivat minusta oikein selviä ja helppoja.
+Tehtävien teko sujui hyvin.
+
+## Moduuli 11
+Tein tehtävämoduulin 11, joka sisälsi vain 2 tehtävää.
+Tehtävät olivat aika simppeleitä, tehtävien teko meni ihan hyvin.
