@@ -34,4 +34,5 @@ Koodi on jaettu pieniin ja selkeästi määriteltyihin luokkiin ja tiedostoihin,
 Tämä periaatteessa kestävää kehitystä(?)
 
 Vaikka tarina ei ehkä ole tärkein osio, voi myöskin alustavasti selvittää jossain, että pelaaja osti vanhan hylätyn talon halvalla, kestävä kehitys mielessään. Mutta jäi nalkkiin taloon, kun astui sisään etuovesta. 
+
 [jos totta puhutaan, unohdin kokonaan tuon kestävän kehityksen osion, joten joudun varmaa muuttamaan/kääntämään aika monta osaa ennen 9.10.]
