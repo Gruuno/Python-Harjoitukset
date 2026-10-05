@@ -36,3 +36,9 @@ Tämä periaatteessa kestävää kehitystä(?)
 Vaikka tarina ei ehkä ole tärkein osio, voi myöskin alustavasti selvittää jossain, että pelaaja osti vanhan hylätyn talon halvalla, kestävä kehitys mielessään. Mutta jäi nalkkiin taloon, kun astui sisään etuovesta. 
 
 [jos totta puhutaan, unohdin kokonaan tuon kestävän kehityksen osion, joten joudun varmaa muuttamaan/kääntämään aika monta osaa ennen 9.10.]
+
+
+V 1.1.0 - Pelin "foundation" tehty.
+
+V 1.1.1 - Pelin koodi koitettu muuttaa selvemmäksi, ja samalla lisätty "tallennus" toiminto. Jotta pelaaja voi jatkaa samasta kohdasta mihin jätti pelin. 
+Lisätty myös intro.txt ja ohjeet.txt
