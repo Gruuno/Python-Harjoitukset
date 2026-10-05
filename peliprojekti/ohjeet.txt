@@ -1,0 +1,10 @@
+PELIN OHJEET
+
+1 - Liiku huoneeseen
+2 - Kerää esine
+3 - Näytä esineet
+4 - Näytä nykyinen sijainti
+0 - Lopeta peli
+
+Kun lopetat pelin, pelitilanne tallennetaan automaattisesti.
+Voit jatkaa peliä myöhemmin antamalla syöttämäsi nimi.
