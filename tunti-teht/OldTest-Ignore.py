@@ -10,7 +10,7 @@ def play_pike():
         print("Kuhan pituus on liian lyhyt. Vapauta se.")
     else:
         print("Kuhan pituus on riittävä! Ei tarvitse vapauttaa.")
-
+ 
 
 #2. TILAUS 'PELI'
 def play_ordering():
