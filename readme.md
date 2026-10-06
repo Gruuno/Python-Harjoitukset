@@ -66,3 +66,19 @@ Tehtävien teko sujui hyvin.
 ## Moduuli 11
 Tein tehtävämoduulin 11, joka sisälsi vain 2 tehtävää.
 Tehtävät olivat aika simppeleitä, tehtävien teko meni ihan hyvin.
+
+## Moduuli 12
+Tein tehtävämoduulin 12, joka sisälsi tosiaan projekti osion 4.
+Tein projektista "foundation" tyylisen aloituksen. Jossa kijroitin hylätystä talosta.
+Ideahan meni kokonaan uusiksi kuitenkin, kun unohdin että mitkä oli eri saannöt ja yms projektin tekoon. Esimerkiksi unohdin tuon kestävänkehityksen vaatimuksen.
+
+## Moduuli 13
+Tein tehtävämoduulin 13, joka sisälsi tuon projekti osion 5.
+Korjailin koodia, ja yritin tehdä siitä helpompaa lukea. Lisäämällä enemmän kommentteja ja muuttamalla tekstin muotoa selvemmän näköiseksi.
+Lisäsin myös mahdollisuuden tallentaa pelin. Tämä tapahtuu automaattisesti kun pelaaja tekee minkä vaan siirtymisen yms pelissä.
+Tein myös into.txt ja ohjeet.txt tiedostot. Josta tulee suoraan ensimmäisenä tuo into.txt kun pelin käynnistää.
+
+## Plan
+Koodin joutuu muuttamaan ja vaihtamaan aika paljon vielä. 
+Ideana on tehdä peli jossa pelaaja pääsee keräilemään roskia ympäri vanhaa taloa joka oli aikalailla hylättynä siihen asti. Pelaaja kerää roskia, jotka sitten kierrätetään oikein eteisessä.
+Kun pelaaja on kerännyt ja löytänyt kaikki roskat, ja ovat kierrättäneet ne. Peli loppuu, jossa peli sitten kertoo pelaajalle miten hän teki kierrättämisen kanssa.
