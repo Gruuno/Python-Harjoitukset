@@ -42,3 +42,5 @@ V 1.1.0 - Pelin "foundation" tehty.
 
 V 1.1.1 - Pelin koodi koitettu muuttaa selvemmäksi, ja samalla lisätty "tallennus" toiminto. Jotta pelaaja voi jatkaa samasta kohdasta mihin jätti pelin. 
 Lisätty myös intro.txt ja ohjeet.txt
+
+V 2.0.0 - Peli on nyt valmis. Tai ainakin pitäisi olla valmis. Peliin on lisätty lajittelu mini peli, ja pieni pulma, jossa et pääse varastoon ilman tasklumappua. Tämä taskulamppu myös tarvitsee pariston.

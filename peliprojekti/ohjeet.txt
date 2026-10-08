@@ -6,5 +6,7 @@ PELIN OHJEET
 4 - Näytä nykyinen sijainti
 0 - Lopeta peli
 
+Kerää roskia ja lajittele ne eteisessä!
+
 Kun lopetat pelin, pelitilanne tallennetaan automaattisesti.
 Voit jatkaa peliä myöhemmin antamalla syöttämäsi nimi.

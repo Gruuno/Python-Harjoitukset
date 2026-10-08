@@ -1,10 +1,18 @@
-class Huone: #Antaa huoneelle nimen ja mahdollisen esineen
-    def __init__(self, nimi,selite , esine=None):
+class Huone: 
+    #Antaa huoneelle nimen, selitteen ja listan esineitä
+    def __init__(self, nimi, selite, esineet=None):
         self.nimi = nimi
         self.selite = selite
-        self.esine = esine
 
-    def __str__(self): #Palauttaa huoneen nimen ja/tai esineen
-        if self.esine:
-            return f"{self.nimi} (esine: {self.esine.nimi})"
+        if esineet is None:
+            self.esineet = []
+        else:
+            self.esineet = esineet
+
+    def __str__(self): 
+        #Palauttaa huoneen nimen ja huoneessa olevat esineet
+        if self.esineet:
+            nimet = ", ".join(esine.nimi for esine in self.esineet)
+            return f"{self.nimi} (esineet: {nimet})"
+
         return self.nimi
