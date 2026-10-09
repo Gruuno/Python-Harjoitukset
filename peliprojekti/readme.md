@@ -2,19 +2,21 @@
 
 ## Pelin idea
 
-Project α ideana on olla tekstipohjainen seikkailupeli, jossa pelaaja joutuu tutkimaan vanhaa hylättyä taloa, kun ovi paiskahti kiinni takaa heti astuttuaan sisään. Pelaajan tehtävänä on liikkua talon eri huoneissa, tutkia ympäristöä ja kerätä vastaan tulevia esineitä.
+Project α ideana on olla tekstipohjainen seikkailupeli, jossa pelaaja osti halvalla vanhan hylätyn talon. Pelin ideana on, että pelaaja kerää roskia ympäri taloa ja kierrättävät nämä oikein. Kun kaikki roskat on löydetty ja kierrätetty, niin peli loppuu. Jonka jälkeen pelaaja saa lopullisen pistemäärän ja muuttuvan tekstin riippuen siitä miten hyvin he tekivät roskien lajittelun.
 
-Pelin tarkoituksena on myöhemmin rakentaa pieni pulmapeli, jossa kaikkia esineitä ei kerätä vain varastoon, vaan niitä tarvitaan myös etenemiseen. Esimerkiksi pelaaja voi löytää avaimen, jolla saa avattua lukitun komeron. Komerosta voi löytyä taskulamppu, jota tarvitaan pimeässä kellarissa liikkumiseen. Joka sitten kenties avaa mahdollisuuden pelaajalle päästä ulos talosta.
+Pelissä on myöskin hyvin alkeellinen pulma, jossa pelaaja ei pääse menemään varastoon ilman taskulamppua. Peli kertoo tästä pelaajalle jos he sit koittavat tehdä.
+Tämä taskulamppu myös tarvitsee pariston, josta myöskin kerrotaan pelaajalle, jos he koittavat mennä varastoon pelkän taskulampun kanssa.
 
 ## Toimintaperiaate
 
 Ohjelman käynnistyessä kysytään nimi, jonka jälkeen pelaaja sijoitetaan pelin ensimmäiseen huoneeseen (eteinen/entryway). Pelaaja voi valita valikosta eri toimintoja:
 
 - liikkua huoneesta toiseen
-- kerätä huoneessa olevan esineen
-- tarkastella mukana olevia esineitä
+- kerätä huoneessa olevat esineet/roskat
+- tarkastella mukana olevia esineitä/roskia
 - tarkastella nykyistä sijaintia ja huoneen kuvausta
-- lopettaa pelin
+- kierrättää roskia (eteisessä)
+- lopettaa pelin (joka tallentaa pelin)
 
 Pelaaja, huoneet ja esineet ovat omia luokkiaan, joiden avulla pelin eri osat voidaan pitää erillään ja niitä voidaan kehittää itsenäisesti.
 
@@ -33,9 +35,9 @@ Pelaaja, huoneet ja esineet ovat omia luokkiaan, joiden avulla pelin eri osat vo
 Koodi on jaettu pieniin ja selkeästi määriteltyihin luokkiin ja tiedostoihin, mikä tekee ohjelmasta helpommin ylläpidettävän ja laajennettavan. Näin samoja rakenteita voidaan hyödyntää myöhemmin ilman, että koko ohjelmaa tarvitsee tehdä uudelleen.
 Tämä periaatteessa kestävää kehitystä(?)
 
-Vaikka tarina ei ehkä ole tärkein osio, voi myöskin alustavasti selvittää jossain, että pelaaja osti vanhan hylätyn talon halvalla, kestävä kehitys mielessään. Mutta jäi nalkkiin taloon, kun astui sisään etuovesta. 
-
-[jos totta puhutaan, unohdin kokonaan tuon kestävän kehityksen osion, joten joudun varmaa muuttamaan/kääntämään aika monta osaa ennen 9.10.]
+Pelin tarina on se että pelaaja osti halvalla talon joka oli muuten hylätty.
+Ja ideana on nyt siivota ja kierrättää roskia mitä pelaaja löytää talon sisältä.
+Tämä ymmärtääkseni sopii oikein hyvin tähän kestävän kehityksen näkökulmaan.
 
 
 V 1.1.0 - Pelin "foundation" tehty.
